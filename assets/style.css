@@ -1,0 +1,14 @@
+#cities-data {
+    max-height:80vh;
+    overflow-y: auto;
+    padding: auto;
+  margin: 1rem 0rem 1rem 0rem;
+}
+
+.small-text{
+  font-size: x-small;
+}
+
+span{
+  width:5rem;
+}
